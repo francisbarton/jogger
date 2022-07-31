@@ -17,13 +17,16 @@ knitr::opts_chunk$set(
 ```
 
 
-# `jogger` is now `[boundr](https://github.com/francisbarton/boundr)`
+# `jogger` has evolved into `[boundr](https://github.com/francisbarton/boundr)`
 
 <!-- badges: start -->
 <!-- badges: end -->
 
 ## Superseded
-I wanted to refactor this package for ages and I finally got round to it. `jogger` is very fragile and needed lots of hacks. It won't work very often nowadays and I don't recommend you install it. I was quite proud of it for a good while, though!
+I have wanted to refactor this package for ages and I finally got round to it.
+`jogger` is very fragile and needed lots of hacks.
+It won't work very often nowadays and I don't recommend you install it.
+I was quite proud of it for a good while, though!
 
 The `schema` branch I created here then became the basis for `boundr` - which is itself still in development but from a much more stable base and with a more logical structure (I think).
 
