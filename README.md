@@ -3,6 +3,8 @@
 
 # jogger
 
+** This package is now superseded by my `boundr` package, which avoids lots of the bad design decisions in `jogger`. Please use that instead! **
+
 <!-- badges: start -->
 <!-- badges: end -->
 
